@@ -53,7 +53,7 @@ const Home = () => {
 
             <div className="d-flex flex-wrap">
             {
-                dog.filter(search(term)).map((data, index) => (
+                dog?.filter(search(term))?.map((data, index) => (
                     <div className="col-6 col-md-4" key={`${index}-${data.id}`}>
                         <div className="card mb-1" >
                             <div className="card-body">
