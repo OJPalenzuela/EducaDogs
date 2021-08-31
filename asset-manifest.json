@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/educadogs/static/js/main.b5627631.chunk.js",
+    "main.js.map": "/educadogs/static/js/main.b5627631.chunk.js.map",
+    "runtime-main.js": "/educadogs/static/js/runtime-main.dcd01ff7.js",
+    "runtime-main.js.map": "/educadogs/static/js/runtime-main.dcd01ff7.js.map",
+    "static/css/2.6b159276.chunk.css": "/educadogs/static/css/2.6b159276.chunk.css",
+    "static/js/2.7e27a982.chunk.js": "/educadogs/static/js/2.7e27a982.chunk.js",
+    "static/js/2.7e27a982.chunk.js.map": "/educadogs/static/js/2.7e27a982.chunk.js.map",
+    "index.html": "/educadogs/index.html",
+    "static/css/2.6b159276.chunk.css.map": "/educadogs/static/css/2.6b159276.chunk.css.map",
+    "static/js/2.7e27a982.chunk.js.LICENSE.txt": "/educadogs/static/js/2.7e27a982.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcd01ff7.js",
+    "static/css/2.6b159276.chunk.css",
+    "static/js/2.7e27a982.chunk.js",
+    "static/js/main.b5627631.chunk.js"
+  ]
+}
