@@ -1,7 +1,7 @@
 {
   "name": "crud-firebase",
   "version": "0.1.0",
-  "homepage": "https://ojpalenzuela.github.io/educadogs",
+  "homepage": "http://OJPalenzuela.github.io/educadogs",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
